@@ -27,9 +27,6 @@ I usually use the debug option because you can pass arguments in the `launch.jso
 When clicking on the debug option on the left, click on Run and debug, then select create a new launch file and choose Python file. Add the following configuration:
 ```json
 {
-    // Use IntelliSense to learn about possible attributes.
-    // Hover to view descriptions of existing attributes.
-    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
         {
