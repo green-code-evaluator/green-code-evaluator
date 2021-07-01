@@ -41,7 +41,7 @@ mprof plot
 ```
 
 
-Note : In order to have the corresponding functions appearing in the plot across time, '@profile' decorators are needed above each function definition. Read here for more info http://fa.bianp.net/blog/2014/plot-memory-usage-as-a-function-of-time/ 
+Note : In order to have the corresponding functions appearing in the plot across time, '@profile' decorators are needed above each function definition. Read [here](http://fa.bianp.net/blog/2014/plot-memory-usage-as-a-function-of-time/) for more info. 
 
 Example with bad_function.py 
 ```console

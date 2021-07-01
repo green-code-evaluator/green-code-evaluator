@@ -121,7 +121,6 @@ def command(input_path: str, results_directory_path: str):
     Args:
         input_path: a folder or file path to be analyzed
         results_directory_path: directory where results are to be saved
-
     """
     if not os.path.exists(results_directory_path):
         os.makedirs(results_directory_path)
