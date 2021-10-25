@@ -3,8 +3,8 @@
 This is our proposal for Mercedes-Benz' HerHackaton 2021 Challenge. 
 
 ## Requirements
-
-Python 3.8 and npm
+![python](https://img.shields.io/badge/Python-3.8-green?style=for-the-badge&logo=python&logoColor=white) 
+![npm](https://img.shields.io/badge/NPM-%3E7.5-red?style=for-the-badge&logo=npm&logoColor=white)
 
 ## Installation
 
@@ -13,7 +13,7 @@ For the frontend part you need to have npm installed so according to your operat
 To install the Python package you can use pip:
 
 ```commandline
-pip install git+https://github.com/martasls/GreenCodeEvaluator.git
+pip install git+https://github.com/green-code-evaluator/green-code-evaluator.git
 ```
 
 ## Usage

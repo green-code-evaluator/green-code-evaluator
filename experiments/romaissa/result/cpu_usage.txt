@@ -1,2 +1,0 @@
-CPU percentage used at the beginning : 16.2
-CPU percentage used at the end: 29.3
